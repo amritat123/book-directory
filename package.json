@@ -1,0 +1,18 @@
+{
+	"name": "book-directary",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "nodemon test"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.0.3",
+		"express": "^4.18.2",
+		"mongodb": "^4.13.0",
+		"mongoose": "^6.8.3"
+	}
+}
